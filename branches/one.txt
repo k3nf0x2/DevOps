@@ -1,6 +1,6 @@
 hi this is created on main branch
 
-<<<<<<< HEAD
-=======
+hi this is created on main branch
+
 this text in this file is edited by bug-1 branch.
->>>>>>> bug-1
+#2
