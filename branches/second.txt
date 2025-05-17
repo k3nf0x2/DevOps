@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is created by bug-1 branch and edited by same branch.
+=======
+this is created by bug-1 branch.
+>>>>>>> main
